@@ -12,7 +12,7 @@ import useInterval from './hooks/useInterval';
 import { getID, defaultEvent, getRandomItem } from './utils';
 
 function App() {
-  const ADD_EVENT_INTERVAL = 3000;
+  const ADD_EVENT_INTERVAL = 15000;
 
   const notes = useSelector((state) => state);
   let [count, setCount] = useState(0); 
