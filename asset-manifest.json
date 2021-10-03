@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/popover-app/static/js/main.b4ad0e2f.chunk.js",
+    "main.js.map": "/popover-app/static/js/main.b4ad0e2f.chunk.js.map",
+    "runtime-main.js": "/popover-app/static/js/runtime-main.4f8a242d.js",
+    "runtime-main.js.map": "/popover-app/static/js/runtime-main.4f8a242d.js.map",
+    "static/js/2.65e1ac3b.chunk.js": "/popover-app/static/js/2.65e1ac3b.chunk.js",
+    "static/js/2.65e1ac3b.chunk.js.map": "/popover-app/static/js/2.65e1ac3b.chunk.js.map",
+    "index.html": "/popover-app/index.html",
+    "static/js/2.65e1ac3b.chunk.js.LICENSE.txt": "/popover-app/static/js/2.65e1ac3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f8a242d.js",
+    "static/js/2.65e1ac3b.chunk.js",
+    "static/js/main.b4ad0e2f.chunk.js"
+  ]
+}
